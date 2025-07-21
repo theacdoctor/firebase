@@ -12,3 +12,7 @@ To pull from the repository
 on desktop
 1. cd C:\zamy\website\firebase
 2.ect
+
+to deploy changes to firebase
+1. cd ....
+2. firebase deploy --only hosting
